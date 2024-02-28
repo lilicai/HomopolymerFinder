@@ -5,14 +5,14 @@ Homopolymer (HP) sequencing is error-prone in next-generation sequencing (NGS) a
 
 ### Manual
 
-**Dependencies:**
-*python3
-*numpy
+** Dependencies:**
+	python3
+	numpy
 
 **Install Using Bioconda
-conda create -n python3 -c conda-forge -y
-conda install python=3
-conda install conda-forge::numpy
+ 	conda create -n python3 -c conda-forge -y
+ 	conda install python=3
+ 	conda install conda-forge::numpy
 
 ### Useage
 
