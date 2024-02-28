@@ -50,13 +50,13 @@ Note: The sam file is extract bam from specified region. Here is the bam of the 
 ```
 An example of a Sample.test.homoploymer.repeat.xls file can be viewed here: ([`Sample.test.homoploymer.repeat.xls`](HomoploymerFinder/example/Sample.test.homoploymer.repeat.xls)).
 
-Note: The results which satisfy left sequence, right sequence, repeated sequence is the same with insertion sequence or repeated sequence including insertion sequence.
+Note: The results which satisfy left sequence, right sequence, and insert sequence contains one or more repeating unit of target repeated sequences.
 ```
 **Sample.test.homoploymer.all.xls**
 ```
 An example of a Sample.test.homoploymer.all.xls file can be viewed here: ([`Sample.test.homoploymer.all.xls`](HomoploymerFinder/example/Sample.test.homoploymer.all.xls)).
 
-Note: The all results which satisfy left sequence, right sequence, and insertion sequence may not necessarily be same with repeated sequences.
+Note: The all results which satisfy left sequence, right sequence. The insert sequence may contains repeating unit of target repeated sequences and other bases.
 ```
 ###Contact
 If you have any questions, please contact lilicai@chosenmedtech.com .
