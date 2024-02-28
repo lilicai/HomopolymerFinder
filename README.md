@@ -16,7 +16,7 @@ Homopolymer (HP) sequencing is error-prone in next-generation sequencing (NGS) a
 
 ### Useage
 
-**To run ArtifactsFinder **
+**To run ArtifactsFinder**
 
 	python3 homoploymer_finder.py Sample.recal.bam Sample input.site.xls test
 
